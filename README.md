@@ -24,6 +24,8 @@ Primary Azure Technology : Static Web Apps, Azure cognitive services.
 
 ## Static Web App URL : https://gentle-glacier-042ea9810.3.azurestaticapps.net/
 
+## Project Demo Video URL : https://github.com/TEJASWARUPUDATA/BSES/blob/main/My%20Website%20Index%20-%20Google%20Chrome%202023-07-30%2000-50-52.mp4
+
 ## Project Demo URL : https://tejaswarupudata.github.io/BSES/
 
 ## HOMEPAGE
