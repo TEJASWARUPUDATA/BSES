@@ -20,9 +20,11 @@ That is BSES norms.
 Project Description : Now- a- days all people are using the vehicles which releases the a huge amount of pollution in which this pollution is damaging our earths atmosphere .
 so protect the atmosphere the Government of India  instituted the BSES norms based on  European regulations.
 
-Primary Azure Technology : Static Web Apps, Azure cognitive services.
+Primary Azure Technology : Static Web Apps,web apps,language,azure bot.
 
 ## Static Web App URL : https://gentle-glacier-042ea9810.3.azurestaticapps.net/
+
+## WEB APPS URL : bses1.azurewebsites.net
 
 ## Project Demo Video URL : https://github.com/TEJASWARUPUDATA/BSES/blob/main/My%20Website%20Index%20-%20Google%20Chrome%202023-07-30%2000-50-52.mp4
 
