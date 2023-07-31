@@ -64,3 +64,6 @@ Primary Azure Technology : Static Web Apps,web apps,language,azure bot.
 <img width="960" alt="image" src="https://github.com/TEJASWARUPUDATA/BSES/assets/111041131/c72e38ee-8fe0-467e-917c-d1b362a99ae4">
 <img width="650" alt="image" src="https://github.com/TEJASWARUPUDATA/BSES/assets/111041131/fb4e7e57-fc2c-48f8-be09-aa7c69ad84ba">
 <img width="207" alt="image" src="https://github.com/TEJASWARUPUDATA/BSES/assets/111041131/aa01e0c3-72ce-4bcc-891b-3d6b00e5b783">
+
+## APP SERVICE(WEB APPS)
+<img width="960" alt="image" src="https://github.com/TEJASWARUPUDATA/BSES/assets/111041131/cc7215f5-f0ae-46d9-8bab-2718e6b636ea">
