@@ -26,7 +26,7 @@ Primary Azure Technology : Static Web Apps,web apps,language,azure bot.
 
 ## WEB APPS URL : https://bses1.azurewebsites.net/
 
-## Project Demo Video URL : https://github.com/TEJASWARUPUDATA/BSES/blob/main/My%20Website%20Index%20-%20Google%20Chrome%202023-07-30%2000-50-52.mp4
+## Project Demo Video URL : https://drive.google.com/file/d/1mJuqhchyIqF4mPWMX4RoV_xM3GxG4Yms/view?usp=sharing
 
 ## Project Demo URL : https://tejaswarupudata.github.io/BSES/
 
